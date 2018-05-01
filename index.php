@@ -1,2 +1,2 @@
 
-<?php echo "hello"; ?>
+<?php include_once("home.php"); ?>
